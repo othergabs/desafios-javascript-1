@@ -25,7 +25,7 @@
     }
  */
 
-const posts = require('../../utils/posts')
+const posts = require('./posts.json')
 
 const paginate = (pageNumber, itemsPerPage) => {}
 
